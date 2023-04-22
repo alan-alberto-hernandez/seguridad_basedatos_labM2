@@ -1,8 +1,8 @@
 # seguridad_basedatos_labM2
 
-##Completar los siguientes 3 puntos de este laboratorio: 
+Completar los siguientes 3 puntos de este laboratorio: 
 
-####Pre-requisitos
+Pre-requisitos
 
 
 - Instalar nmap  https://nmap.org/download
