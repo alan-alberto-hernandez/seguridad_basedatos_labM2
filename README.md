@@ -12,7 +12,7 @@ Pre-requisitos
 
 
 Los 2 puntos son:
-- 1-	Usar la herramienta “nmap” para escanear el puerto 3306 del servidor MySQL. El comandpo de nmap es el siguiente: nmap -sT -p 3306 -Pn localhost
+- 1-	Usar la herramienta “nmap” para escanear el puerto 3306 del servidor MySQL. El comando de nmap es el siguiente: nmap -sT -p 3306 -Pn localhost
 - 2-	Usar la herramienta “SQLmap” para probar si existe una vulnerabilidad de “SQL injection” en el script de php llamado “/script.php.” que estará disponible en el servidor de prueba. https://localhost/sqli/script.php.  El código fuente esta disponible en este repositorio de github.
 
 
