@@ -3,11 +3,11 @@
 ##Completar los siguientes 3 puntos de este laboratorio: 
 
 ####Pre-requisitos
-Instalar WAMP en su computadora personal. Existen muchas guias de como realizar este procedimiento. Puede usar esta https://www.neoguias.com/instalar-wamp/ o buscar en google para encontrar guias similares.
+
 
 - Instalar nmap  https://nmap.org/download
 - Instalar la herramienta SQLMap
-- Instalar WAMP y completar todos los pasos necesarios para instalar la aplicacion web.
+- Instalar WAMP y completar todos los pasos necesarios para instalar la aplicacion web. Existen muchas guias de como realizar este procedimiento. Puede usar esta https://www.neoguias.com/instalar-wamp/ o buscar en google para encontrar guias similares.
 
 
 
