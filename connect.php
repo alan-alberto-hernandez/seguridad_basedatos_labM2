@@ -1,6 +1,6 @@
 <?php
 $servername = "localhost:3306"; //
-$username = "username"; //with default mamp settings
-$password = "password"; //with default mamp settings
-$dbname = "database_name";
+$username = "root"; //with default mamp settings
+$password = "12345"; //with default mamp settings
+$dbname = "labmod2";
 ?>
