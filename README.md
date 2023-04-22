@@ -5,9 +5,9 @@
 ####Pre-requisitos
 Instalar WAMP en su computadora personal. Existen muchas guias de como realizar este procedimiento. Puede usar esta https://www.neoguias.com/instalar-wamp/ o buscar en google para encontrar guias similares.
 
-Instalar nmap  https://nmap.org/download
-Instalar la herramienta SQLMap
-Investigar que herramienta sirve para hacer un "brute force attack" en un servidor de mysql desde una computadora con Sistema operativo Windows 10. (Si tiene otro sistema operativo asegurese que la herramienta que descargue sea compatible)
+- Instalar nmap  https://nmap.org/download
+- Instalar la herramienta SQLMap
+- Investigar que herramienta sirve para hacer un "brute force attack" en un servidor de mysql desde una computadora con Sistema operativo Windows 10 e instalarlo. (Si tiene otro sistema operativo asegurese que la herramienta que descargue sea compatible).
 
 
 Los 3 puntos son:
